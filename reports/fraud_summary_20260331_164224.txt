@@ -1,0 +1,28 @@
+============================================================
+  FRAUD DETECTION — DAILY SUMMARY REPORT
+  Generated : 2026-03-31 16:42:24
+  Period    : Last 7 day(s)
+============================================================
+
+  Total Fraud Alerts : 276
+
+  Risk Level Breakdown:
+  Risk            Count    Total Amount   Avg Confidence
+  -------------------------------------------------------
+  CRITICAL          261           €0.00          0.9941
+  HIGH               13           €0.00          0.8391
+  MEDIUM              2           €0.00          0.6032
+
+  Top 10 Highest Confidence Fraud Alerts:
+  Ref                 Amount   Confidence Risk         Flagged At
+  -----------------------------------------------------------------
+  PRED_000046     €     0.00      1.0000 CRITICAL     2026-03-30 15:19:53
+  PRED_000069     €     0.00      1.0000 CRITICAL     2026-03-30 15:19:53
+  PRED_000143     €     0.00      1.0000 CRITICAL     2026-03-30 15:19:53
+  PRED_000201     €     0.00      1.0000 CRITICAL     2026-03-30 15:19:53
+  PRED_000018     €     0.00      1.0000 CRITICAL     2026-03-30 15:22:23
+  PRED_000025     €     0.00      1.0000 CRITICAL     2026-03-30 15:22:23
+  PRED_000044     €     0.00      1.0000 CRITICAL     2026-03-30 15:22:23
+  PRED_000126     €     0.00      1.0000 CRITICAL     2026-03-30 15:22:23
+  PRED_000164     €     0.00      1.0000 CRITICAL     2026-03-30 15:22:23
+  PRED_000362     €     0.00      1.0000 CRITICAL     2026-03-30 15:22:23

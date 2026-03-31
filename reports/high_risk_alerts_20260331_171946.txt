@@ -1,0 +1,60 @@
+======================================================================
+  HIGH-RISK FRAUD ALERT REPORT  (Unreviewed Only)
+  Generated : 2026-03-31 17:19:46
+  Minimum Risk Level : HIGH
+======================================================================
+
+  Total Unreviewed Alerts : 50
+
+  #     Ref                 Amount   Confidence Risk         Model                     Flagged At
+  ------------------------------------------------------------------------------------------
+  1     PRED_000046     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:19:53
+  2     PRED_000069     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:19:53
+  3     PRED_000143     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:19:53
+  4     PRED_000201     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:19:53
+  5     PRED_000018     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  6     PRED_000025     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  7     PRED_000044     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  8     PRED_000126     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  9     PRED_000164     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  10    PRED_000362     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  11    PRED_000401     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  12    PRED_000423     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  13    PRED_000656     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  14    PRED_000704     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  15    PRED_000944     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:22:23
+  16    PRED_000018     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  17    PRED_000025     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  18    PRED_000044     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  19    PRED_000126     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  20    PRED_000164     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  21    PRED_000362     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  22    PRED_000401     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  23    PRED_000423     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  24    PRED_000656     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  25    PRED_000704     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  26    PRED_000944     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:23:42
+  27    PRED_000046     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:24:43
+  28    PRED_000069     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:24:43
+  29    PRED_000143     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:24:43
+  30    PRED_000201     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:24:43
+  31    PRED_000018     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  32    PRED_000025     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  33    PRED_000044     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  34    PRED_000126     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  35    PRED_000164     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  36    PRED_000362     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  37    PRED_000401     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  38    PRED_000423     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  39    PRED_000656     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  40    PRED_000704     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  41    PRED_000944     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:26:28
+  42    PRED_000018     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  43    PRED_000025     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  44    PRED_000044     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  45    PRED_000126     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  46    PRED_000164     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  47    PRED_000362     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  48    PRED_000401     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  49    PRED_000423     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04
+  50    PRED_000656     €     0.00      1.0000 CRITICAL     best_model                2026-03-30 15:29:04

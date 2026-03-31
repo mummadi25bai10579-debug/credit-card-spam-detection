@@ -1,0 +1,17 @@
+# ── Core data science ─────────────────────────────────────────────────────────
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+xgboost>=2.0
+matplotlib>=3.7
+
+# ── Deep learning (CPU is fine; GPU optional) ─────────────────────────────────
+# Install CPU version:  pip install torch --index-url https://download.pytorch.org/whl/cpu
+# Install GPU version:  pip install torch  (auto-detects CUDA)
+torch>=2.0
+
+# ── Database ──────────────────────────────────────────────────────────────────
+# sqlite3 is part of Python's standard library — nothing to install
+
+# ── Optional but useful ───────────────────────────────────────────────────────
+tqdm>=4.65          # progress bars (not required but nice)
